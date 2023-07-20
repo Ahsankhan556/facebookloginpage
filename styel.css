@@ -1,0 +1,64 @@
+body{
+background-color: aliceblue;
+font-family: inherit;
+}
+.maincontaner{
+display: flex;
+justify-content: space-around;
+text-align: center;
+flex-wrap: wrap;
+align-items: center;
+height: 100vh;
+}
+.img{
+    width: 300px;
+}
+.text{
+
+background-color: rgb(140, 211, 198);
+
+padding: 11px;
+border-radius: 15px;
+
+
+}
+.text input{
+padding: 10px;
+width: 270px;
+margin: 10px;
+border-radius: 10px;
+border: 1px solid rgb(150, 69, 232);
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.a{
+
+text-decoration: none;
+color: rgb(129, 129, 240);
+
+}
+.acount{
+width: 145px;
+padding: 11px;
+background-color: greenyellow;
+border: red;
+border-radius: 10px;
+cursor: poinrer;
+
+}
